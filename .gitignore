@@ -1,3 +1,11 @@
 .idea/
 spring-cloud.iml
 eureka-server/eureka-server.iml
+eureka-server/src/test/
+eureka-server/target/
+service-provider/service-provider.iml
+service-provider/src/test/
+service-provider/target/
+eureka-server2/eureka-server2.iml
+eureka-server2/src/test/
+eureka-server2/target/
