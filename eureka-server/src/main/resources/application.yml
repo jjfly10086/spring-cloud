@@ -15,5 +15,7 @@ eureka:
     fetchRegistry: false
     serviceUrl:
       defaultZone: http://localhost:8001/eureka/
-
+# 单机下关闭自我保护机制
+  server:
+    enable-self-preservation: false
 
