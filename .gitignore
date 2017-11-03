@@ -1,2 +1,3 @@
 .idea/
 spring-cloud.iml
+eureka-server/eureka-server.iml
