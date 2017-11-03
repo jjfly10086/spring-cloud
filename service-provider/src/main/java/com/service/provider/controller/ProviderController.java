@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author jwh
  */
 @RestController
-public class DemoController {
+public class ProviderController {
 
     @RequestMapping("/test")
     public String test(){

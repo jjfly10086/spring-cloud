@@ -9,3 +9,6 @@ service-provider/target/
 eureka-server2/eureka-server2.iml
 eureka-server2/src/test/
 eureka-server2/target/
+ribbon-consumer/ribbon-consumer.iml
+ribbon-consumer/src/test/
+ribbon-consumer/target/
